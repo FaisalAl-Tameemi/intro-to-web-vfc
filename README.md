@@ -6,12 +6,13 @@
 
 ## Slides
 
-* [Intro](http://bit.ly/1VsQmUT)
-* [How The Internet Works](http://bit.ly/1YAoPiz)
-* [HTML Basics](http://bit.ly/23OQXC0)
-* [Style with CSS](http://bit.ly/1r4K8yh)
-* [Landing Page // Components Breakdown](http://bit.ly/1Qf3zc2)
-* ... more to come
+* [Intro: Internet 101](http://bit.ly/1TRANET)
+* [HTML Basics](http://bit.ly/25slczo)
+* [Intro To CSS](http://bit.ly/1NXLIfQ)
+* [Landing Page // Components](http://bit.ly/1OWNHvG)
+* [Intro To JavaScript]()
+* [Intro To jQuery]()
+* [Intro To Firebase]()
 
 
 ## Tools & Libraries
@@ -20,6 +21,7 @@
 * [Icons: Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 * [Robot Font: Google Fonts](https://www.google.com/fonts)
 * [Javascript Library: jQuery](http://jquery.com/)
+* [Javascript Library: Firebase](http://firebase.io)
 * [Code Editor: Atom](https://www.atom.io/)
 * [Code Editor: Sublime Text](https://www.sublimetext.com/3)
 
