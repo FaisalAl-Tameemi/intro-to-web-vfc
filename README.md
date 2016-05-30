@@ -1,15 +1,8 @@
-# [Intro To Web @ Devhub // Lighthouse Labs](http://devhub.ca)
+# [Intro To Web @ VFC // Lighthouse Labs](http://lighthouselabs.ca)
 
-![alt text](http://bit.ly/20MfQwr "Devhub Logo")
+![alt text](https://pbs.twimg.com/profile_images/378800000199314072/a7fdb6e01ea7352648d7c1238b7324d8_400x400.png "Ventures for Canada Logo")
 
-## Getting Started
-
-To use and extend this example for your own projects, do the following:
-
-* Fork this repository on GitHub (scroll up and click the `fork` button)
-* [Send me a link](mailto:faisal@lighthouselabs.ca) to your project and I'll add it to a list of show case projects on this page
-* Keep on being awesome!
-
+![alt text](https://lighthouselabs.ca/assets/lighthouselabs-logo-d5df6d383f7466b06a64de9561fd537493502eafe78bbf3bcd3de82884e5dd85.png "Lighthouse Labs Logo")
 
 ## Slides
 
@@ -18,7 +11,7 @@ To use and extend this example for your own projects, do the following:
 * [HTML Basics](http://bit.ly/23OQXC0)
 * [Style with CSS](http://bit.ly/1r4K8yh)
 * [Landing Page // Components Breakdown](http://bit.ly/1Qf3zc2)
-* ... more to come 
+* ... more to come
 
 
 ## Tools & Libraries
@@ -27,6 +20,7 @@ To use and extend this example for your own projects, do the following:
 * [Icons: Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 * [Robot Font: Google Fonts](https://www.google.com/fonts)
 * [Javascript Library: jQuery](http://jquery.com/)
+* [Code Editor: Atom](https://www.atom.io/)
 * [Code Editor: Sublime Text](https://www.sublimetext.com/3)
 
 
