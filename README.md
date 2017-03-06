@@ -6,14 +6,9 @@
 
 ## Slides
 
-* [Intro: Internet 101](http://bit.ly/1TRANET)
-* [HTML Basics](http://bit.ly/25slczo)
-* [Intro To CSS](http://bit.ly/1NXLIfQ)
-* [Landing Page // Components](http://bit.ly/1OWNHvG)
-* [Intro To JavaScript]()
-* [Intro To jQuery]()
-* [Intro To Firebase]()
-
+* [Intro: Internet 101](http://slides.com/faisal-altameemi/intro-to-web-vfc-1#/)
+* [HTML Basics](http://slides.com/faisal-altameemi/intro-to-web-vfc-html-2#/)
+* [Intro To CSS](http://slides.com/faisal-altameemi/intro-to-web-vfc-css-3#/)
 
 ## Tools & Libraries
 
